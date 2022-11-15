@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Feel_good stories
+name: Data amigos
 
 # Short bio or description (displayed in the header)
-description: Storyteller from somewhere
+description: Data is the new gold
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://play.google.com/store/apps/details?id=com.tuneonn.lovestories&hl=en_US&gl=US
+avatar: https://www.ip-paris.fr/sites/default/files/styles/actualite_full/public/visual-editor/3-%20M2%20Data%20science.jpg?h=0fda4a61&itok=5xwVw7jO
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email: akarshmech123@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  github: https://github.com/akarshpyr/akarshpyr.git
+  instagram: akarshlakshman12
+  linkedin: https://www.linkedin.com/in/akarsh-l-085394186/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: akarshlakshman12
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
