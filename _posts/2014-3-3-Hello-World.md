@@ -1,18 +1,10 @@
 ---
 layout: post
-title: Heyy always keep learning!!
+title: Welcome to my blog brooo!!
 published: true
 ---
-
-Hii i am an employee of turingminds.ai. I don't know when i will get my stipend.!
-
-![]({{site.baseurl}}/_posts/IMG_9620.JPG)![IMG_9620.JPG]({{site.baseurl}}/_posts/IMG_9620.JPG)
-
-
-Always learn##
-
-Study for 8 hours?###
-
-I should always swim against the currents.
-
-[www.youtube.com](www.youtube.com)![]({{site.baseurl}}/https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.turingminds.ai%2Fassets%2Fimages%2Flogo_turingminds.svg&imgrefurl=https%3A%2F%2Fwww.turingminds.ai%2F&tbnid=2nqCN5vSCKHKPM&vet=12ahUKEwiJtsfI56_7AhUk_TgGHWlrDogQMygAegUIARC2AQ..i&docid=hI0E-ou9IKwqZM&w=800&h=223&q=turing%20minds&ved=2ahUKEwiJtsfI56_7AhUk_TgGHWlrDogQMygAegUIARC2AQ)
+##Welcome to my BIO!!
+**Name - AKARSH L**
+I have a strong inclination towards data science and planning a career switch from core engineering to data science sector.Currently I have been employed by _turingminds.ai_. I have been trained by the INSOFE faculty now. Feel free to contact me for any projects related to Data Science.
+[Git_hub_link](https://github.com/akarshpyr/akarshpyr.git "Click on the link to explore DS projects")
+![DS]({{site.baseurl}}/https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg)
