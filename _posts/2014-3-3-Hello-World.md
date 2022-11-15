@@ -8,9 +8,9 @@ Hii i am an employee of turingminds.ai. I don't know when i will get my stipend.
 
 ![IMG_9620.JPG]({{site.baseurl}}/_posts/IMG_9620.JPG)
 
-I was a child then##
+Always learn##
 
-Why my life is so difficult?###
+Study for 8 hours?###
 
 I should always swim against the currents.
 
