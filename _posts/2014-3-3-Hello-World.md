@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to my blog brooo!!
+title: Let us play with data!!
 published: true
 ---
 ##Welcome to my BIO!!
