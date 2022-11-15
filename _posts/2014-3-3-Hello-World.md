@@ -6,7 +6,7 @@ published: true
 
 Hii i am an employee of turingminds.ai. I don't know when i will get my stipend.!
 
-![IMG_9620.JPG]({{site.baseurl}}/_posts/IMG_9620.JPG)
+
 
 Always learn##
 
