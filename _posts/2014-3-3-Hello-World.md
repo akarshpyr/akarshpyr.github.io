@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Where am I stuck? Is everything fine?
+title: Heyy always keep learning!!
 published: true
 ---
 
 Hii i am an employee of turingminds.ai. I don't know when i will get my stipend.!
 
+![]({{site.baseurl}}/_posts/IMG_9620.JPG)![IMG_9620.JPG]({{site.baseurl}}/_posts/IMG_9620.JPG)
 
 
 Always learn##
